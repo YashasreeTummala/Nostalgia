@@ -5,7 +5,7 @@
 }
 
 .container {
-  width: 70%;
+  width: 80%;
   max-width: 100rem;
   margin: 2rem auto;
   padding: 0 1.5rem;
@@ -45,7 +45,7 @@
 .image-gallery a img {
   position: relative;
   z-index: 100;
-  padding: 1rem 3rem;
+  padding: 0;
   border: 2px solid rgba(255, 255, 255, .6);
   border-radius: 4rem;
   opacity: 100;

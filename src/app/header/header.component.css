@@ -1,7 +1,10 @@
 .header-section{
-    height: 3em;
-    text-align: left;
+    height: 2.5em;
     background-color: rgb(255, 156, 27);
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
     font-weight: 600;
-    font-size: small;
+    font-size: 2em;
+    padding: 10px;
 }
